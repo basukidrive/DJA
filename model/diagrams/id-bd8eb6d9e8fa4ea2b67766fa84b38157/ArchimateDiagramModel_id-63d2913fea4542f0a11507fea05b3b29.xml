@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="test arcview"
+    id="id-63d2913fea4542f0a11507fea05b3b29">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-efa7dcafc6544798a8643012af4f7b14">
+    <bounds
+        x="156"
+        y="170"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-e9a65bae5ae64f51be6ae99aa21a3fbc.xml#id-e9a65bae5ae64f51be6ae99aa21a3fbc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4ce5a34d59c44e7cbe22ad688172d5e8">
+    <bounds
+        x="269"
+        y="304"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-564870d5bd1446d1b902e375b509714c.xml#id-564870d5bd1446d1b902e375b509714c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7cd34e6639004ca887bf2fc7603ab19a">
+    <bounds
+        x="388"
+        y="188"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-4e2266ea509d4346a2c0850e6388d2c3.xml#id-4e2266ea509d4346a2c0850e6388d2c3"/>
+  </children>
+</archimate:ArchimateDiagramModel>
